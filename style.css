@@ -22,3 +22,9 @@
         background-color: red;
     }
 }
+
+@media (min-width: 800px) {
+    .container {
+        background-color: purple;
+    }
+}
