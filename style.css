@@ -53,3 +53,7 @@
     height: 100px;
     flex-grow: 1;
   }
+
+  .item1 {
+    flex-grow: 2;
+  }
