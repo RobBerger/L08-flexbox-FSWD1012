@@ -86,3 +86,7 @@ html, body, div, img {
 body {
     line-height: 1;
 }
+
+.container {
+    display: flex;
+  }
