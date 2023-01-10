@@ -31,7 +31,7 @@
 
 .box {
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
   }
 
   .item {
