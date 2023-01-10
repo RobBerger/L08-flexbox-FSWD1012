@@ -90,4 +90,10 @@ body {
 .container {
     display: flex;
     flex-wrap: wrap;
+    padding: 5px;
   }
+
+  .item {
+    margin: 5px;
+    height: 200px
+}
